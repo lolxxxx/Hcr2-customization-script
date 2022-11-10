@@ -10,6 +10,7 @@ Latest version : v1.2.1
 - adds skins
 - adds paints
 - adds animation
+
 To a new/existing account
 
 Link to script in action :
