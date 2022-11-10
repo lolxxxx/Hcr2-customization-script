@@ -2,6 +2,7 @@
 A script for gg that can add any customization in-game for hill climb racing 2.
 
 Latest version : v1.2.1
+
 [PATCH NOTES]
 * added the beast hat
 
