@@ -5,6 +5,12 @@ Latest version : v1.2.1
 [PATCH NOTES]
 * added the beast hat
 
+[FUNCTIONALITY]
+- adds skins
+- adds paints
+- adds animation
+To a new/existing account
+
 Link to script in action :
 https://www.youtube.com/watch?v=Jh0TGYcd9BM
 
