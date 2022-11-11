@@ -5,6 +5,7 @@ Latest version : v1.2.1
 
 [PATCH NOTES]
 * added the beast hat
+* added option to load all paints from premades
 
 [FUNCTIONALITY]
 - adds skins
