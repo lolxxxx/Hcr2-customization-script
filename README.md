@@ -14,8 +14,5 @@ Latest version : v1.2.1
 
 To a new/existing account
 
-Link to script in action :
-https://www.youtube.com/watch?v=Jh0TGYcd9BM
-
 This script will be frequently updated, for any further info contact us here :
 https://discord.gg/EVnK4cpfVP
