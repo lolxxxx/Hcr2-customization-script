@@ -1,11 +1,11 @@
 # Hcr2-script
 A script for gg that can add any customization in-game for hill climb racing 2.
 
-Latest version : v1.2.1
+Latest version : v1.2.2
 
 [PATCH NOTES]
-* added the beast hat
-* added option to load all paints from premades
+* added the "Attom" CCEV paint (1.53.3)
+* better GUI
 
 [FUNCTIONALITY]
 - adds skins
