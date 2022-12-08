@@ -1,4 +1,4 @@
-# Customization script
+# Hill Climb Racing 2 - Customization script
 A script for gg that can add any customization in-game for hill climb racing 2.
 
 * Latest version : v1.2.4
