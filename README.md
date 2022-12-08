@@ -7,16 +7,11 @@ A script for gg that can add any customization in-game for hill climb racing 2.
 * better script performance
 
 # Functionality
-* Current version : v1.2.4
-* Armv64
-* hcr2 v1.54.0 (latest)
+Works for latest version of hcr2 (1.54.0 armv64) without risk of getting banned. Can be used on both new and existing accounts.
 
-* adds skins
-* adds paints
-* adds animation
-* no ban
-
-Works for new/existing accounts!
+* all skins
+* all paints
+* all animation
 
 ![Screenshot_20221208-220717_Hill_Climb_Racing_2](https://user-images.githubusercontent.com/41923731/206568576-5b462840-85a3-4ac6-9088-35418dc37e6c.jpg)
 ![Screenshot_20221208-220728_Hill_Climb_Racing_2](https://user-images.githubusercontent.com/41923731/206568618-59d6aeab-7c39-4136-a328-6f1310055754.jpg)
