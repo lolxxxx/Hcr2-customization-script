@@ -1,7 +1,5 @@
 # HCR2 Customization script
-A script for gg that can add any customization in-game for hill climb racing 2. No risk of ban.
-
-* Latest version : v1.2.4
+A script for gg that can add any customization in-game for hill climb racing 2.
 
 # Patch notes
 * added the "Ramen" bus paint (1.54.0)
@@ -9,9 +7,14 @@ A script for gg that can add any customization in-game for hill climb racing 2. 
 * better script performance
 
 # Functionality
-- adds skins
-- adds paints
-- adds animation
+✓ Current version : v1.2.4
+✓ Armv64
+✓ hcr2 v1.54.0 (latest)
+
+✓ adds skins
+✓ adds paints
+✓ adds animation
+✓ no ban
 
 Works for new/existing accounts!
 
