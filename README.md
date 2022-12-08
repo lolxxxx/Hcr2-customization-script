@@ -4,7 +4,7 @@ A script for gg that can add any customization in-game for hill climb racing 2.
 # Patch notes
 * added the "Ramen" bus paint (1.54.0)
 * added the "Lava" rally paint (1.54.0)
-* better script performance
+* faster script performance
 
 # Functionality
 Works for latest version of hcr2 (1.54.0 armv64) without risk of getting banned. Can be used on both new and existing accounts.
