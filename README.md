@@ -13,7 +13,10 @@ Latest version : v1.2.4
 - adds paints
 - adds animation
 
-Works for new/existing accounts
+Works for new/existing accounts!
+
+![Screenshot_20221208-220717_Hill_Climb_Racing_2](https://user-images.githubusercontent.com/41923731/206568576-5b462840-85a3-4ac6-9088-35418dc37e6c.jpg)
+![Screenshot_20221208-220728_Hill_Climb_Racing_2](https://user-images.githubusercontent.com/41923731/206568618-59d6aeab-7c39-4136-a328-6f1310055754.jpg)
 
 # Contacts
 This script will be frequently updated, for any further info contact us here :
