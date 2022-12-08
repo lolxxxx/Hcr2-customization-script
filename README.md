@@ -13,7 +13,10 @@ Latest version : v1.2.4
 - adds paints
 - adds animation
 
-To a new/existing account
+Works for new/existing accounts
 
+[Uploading Screenshot_20221208-220728_Hill_Climb_Racing_2.jpg.url…]()
+
+# Contacts
 This script will be frequently updated, for any further info contact us here :
 https://discord.gg/EVnK4cpfVP
