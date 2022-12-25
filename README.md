@@ -17,5 +17,7 @@ Works for latest version of hcr2 (1.54.2 armv64) without risk of getting banned.
 ![Marzipan Allspice](https://user-images.githubusercontent.com/41923731/209444078-88c4b295-d977-4462-a981-4572aabd793c.jpg)
 
 # Contacts
-This script is private but will be frequently updated, for any further info or services contact us here :
-https://discord.gg/EVnK4cpfVP
+This script is private but will be frequently updated, for any further info or services contact us here
+* Discord : https://discord.gg/EVnK4cpfVP
+* YouTsube : https://youtube.com/@skullskripts
+* Gmail : Prohcr01@gmail.com
