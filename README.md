@@ -21,4 +21,3 @@ Works for latest version of hcr2 (1.54.2 armv64) without risk of getting banned.
 This script is private but will be frequently updated, for any further info or services contact us here
 * Discord : https://discord.gg/EVnK4cpfVP
 * YouTube : https://youtube.com/@skullskripts
-* Gmail : Prohcr01@gmail.com
