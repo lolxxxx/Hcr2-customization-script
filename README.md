@@ -14,6 +14,7 @@ Works for latest version of hcr2 (1.54.3 armv64) without risk of getting banned.
 * all animation
 
 # Picture(s)
+![Screenshot_20230121-183915_Hill_Climb_Racing_2](https://user-images.githubusercontent.com/41923731/213879988-f9f0244c-62fd-4e66-9e4b-259585eab86b.jpg)
 
 
 # Contacts
