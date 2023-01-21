@@ -2,12 +2,12 @@
 A script for gg that can add any customization in-game for hill climb racing 2.
 
 # Patch notes
-[v1.2.5]
-* added the "Marzipan Allspice" skin (1.54.2)
-* added the "Cookie" CCEV paint (1.54.2)
+[v1.2.6]
+* added the "Drizzle" skin (1.54.3)
+* added the "Lunar" moonlander paint (1.54.3)
 
 # Functionality
-Works for latest version of hcr2 (1.54.2 armv64) without risk of getting banned. Can be used on both new and existing accounts.
+Works for latest version of hcr2 (1.54.3 armv64) without risk of getting banned. Can be used on both new and existing accounts.
 
 * all skins
 * all paints
@@ -15,7 +15,6 @@ Works for latest version of hcr2 (1.54.2 armv64) without risk of getting banned.
 
 # Picture(s)
 
-![Marzipan Allspice](https://user-images.githubusercontent.com/41923731/209444078-88c4b295-d977-4462-a981-4572aabd793c.jpg)
 
 # Contacts
 This script is private but will be frequently updated, for any further info or services contact us here
